@@ -1,0 +1,3 @@
+[submodule "opendr"]
+	path = opendr
+	url = https://github.com/mattloper/opendr.git

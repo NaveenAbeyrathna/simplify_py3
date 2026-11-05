@@ -26,6 +26,8 @@ import numpy as np
 import chumpy as ch
 
 from opendr.camera import ProjectPoints
+#from simple_camera import SimpleProjectPoints as ProjectPoints
+
 from lib.robustifiers import GMOf
 from smpl_webuser.serialization import load_model
 from smpl_webuser.lbs import global_rigid_transformation
